@@ -1,5 +1,8 @@
-// ブックマークレット
-// https://github.dev/masui/Scrapbox-VSCode => scrapbox.io/Scrapbox-VSCode にジャンプ
+//
+// VSCode Webを活用するためのブックマークレット
+// https://github.dev/masui/Scrapbox-VSCode ⇔ scrapbox.io/Scrapbox-VSCode
+//
+// タイトル取得手法がイマイチだが仕方ない?
 //
 javascript:(function(){
     let a;
@@ -11,4 +14,3 @@ javascript:(function(){
         location.href = `https://github.dev/masui/${title}`;
     }
 })();
-// タイトル取得手法がイマイチ...
