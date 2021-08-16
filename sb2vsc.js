@@ -1,6 +1,6 @@
 //
 // VSCode Webを活用するためのブックマークレット
-// https://github.dev/masui/Scrapbox-VSCode ⇔ scrapbox.io/Scrapbox-VSCode
+// https://github.dev/masui/Scrapbox-VSCode ⇔ https://scrapbox.io/Scrapbox-VSCode
 //
 // タイトル取得手法がイマイチだが仕方ない?
 //
