@@ -3,6 +3,7 @@
 // https://github.dev/masui/Scrapbox-VSCode ⇔ https://scrapbox.io/Scrapbox-VSCode
 //
 // タイトル取得手法がイマイチだが仕方ない?
+// window.scrapbox.Project.name だとURLの名前しか取得できないので .title を使ってる
 //
 javascript:(function(){
     let a;
